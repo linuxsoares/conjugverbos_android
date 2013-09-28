@@ -101,6 +101,136 @@
                     <!-- API 14 theme customizations can go here. -->
                 </style>
             </file>
+            <file
+                name="c"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/c.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="b"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/b.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="t"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/t.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="f"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/f.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="q"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/q.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="e"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/e.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="h"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/h.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="z"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/z.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="x"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/x.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="i"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/i.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="v"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/v.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="d"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/d.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="j"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/j.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="a"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/a.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="y"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/y.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="m"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/m.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="r"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/r.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="o"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/o.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="n"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/n.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="p"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/p.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="u"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/u.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="g"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/g.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="k"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/k.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="s"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/s.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="w"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/w.png"
+                qualifiers="hdpi"
+                type="drawable" />
+            <file
+                name="l"
+                path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/src/main/res/drawable-hdpi/l.png"
+                qualifiers="hdpi"
+                type="drawable" />
         </source>
         <source path="/Users/gilmar/AndroidStudioProjects/ConjugVerbos/ConjugVerbosProject/ConjugVerbos/build/res/rs/debug" />
     </dataSet>
